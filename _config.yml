@@ -1,0 +1,8 @@
+# Site settings
+title: Bizkit
+description: > # this means to ignore newlines until "baseurl:"
+  Tu bois.
+url: "http://feston.github.io"
+baseurl: "/recettes" 
+# Build settings
+markdown: kramdown

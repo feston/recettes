@@ -9,6 +9,7 @@ For one standard size dough:
 * 150g sourdough
 * 125cl water (Brita the crap out of it otherwise it's no hype)
 * 250g flour
+* Big pinch o'salt
 
 Put the ingredients in a bowl, mold hard, fold on itself repeatedly until you can shape it as a sphere. Don't hesitate to add flour if the dough is too liquid or sticks to your hands.
 

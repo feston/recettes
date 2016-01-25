@@ -29,28 +29,28 @@ Place under the bowl for a couple of hours in a warm place. This time is called 
 * Prosciutto, parma ham (anything Italian and expensive)
 * Mozzarella (cooking mozza, rectangular and dry)
 * Grated parmesan
-* Olive oil (expensive one, please)
+* Extra-virgin olive oil (expensive one, please)
 * Basil (home-grown)
 
-You've got to make your own tomato sauce, otherwise you're better off buying a frozen pizza at Lidl. The simplest way to up your tomato sauce game is to cut the tomatoes and slowly cook them. Give the sauce a stir every 15 minutes, add olive oil, black pepper, salt. That will take you a couple of hours, but your dough's rising anyway.
+You've got to make your own tomato sauce, otherwise you're better off buying a frozen pizza at Lidl. The simplest way to up your tomato sauce game is to cut the tomatoes and slowly cook them. Give the sauce a stir every 15 minutes, add extra-virgin olive oil, black pepper, salt. That will take you a couple of hours, but your dough's rising anyway.
 
 Put the tomato sauce on the dough, then add the cubes of mozza on top, on all the surface. Slice the mushrooms and throw that on top, then add the ham. The parmesan comes last.
 
 Heat the oven as much as you can while you do this. It'll never be hot enough to cook your pizza properly anyway.
 
-Pro-tip: put some olive oil on your fresh basil leaves before you cook your pizza in the oven, otherwise they'll burn.
+Pro-tip: put some extra-virgin olive oil on your fresh basil leaves before you cook your pizza in the oven, otherwise they'll burn.
 
-Cook the thing. Add a drizzle of olive oil. Eat the pizza.
+Cook the thing. Add a drizzle of extra-virgin olive oil. Eat the pizza.
 
 ### Caprese
 
 * Mozzarella di Bufala
 * Cherry tomatoes
-* Olive oil
+* Extra-virgin olive oil (expensive one, please)
 * Balsamic vinegar
 
-Spread some olive oil on your dough, and add on top the slices of mozza.
+Spread some extra-virgin olive oil on your dough, and add on top the slices of mozza.
 
-In between slices of mozza, you will add cut-in-half tomatoes. Drizzle some more olive oil, and cook in the oven until it doesn't look all liquid on top.
+In between slices of mozza, you will add cut-in-half tomatoes. Drizzle some more extra-virgin olive oil, and cook in the oven until it doesn't look all liquid on top.
 
 Drizzle a large stream of balsamic vinegar on top when taking the pizza out of the oven. Eat the pizza. Don't burn yourself.

@@ -16,7 +16,7 @@ For one standard size dough:
 * 250g flour
 * Big pinch o'salt
 
-Put the ingredients in a bowl, mold hard, fold on itself repeatedly until you can shape it as a sphere. Don't hesitate to add flour if the dough is too liquid or sticks to your hands.
+Put the ingredients in a bowl, knead hard, fold on itself repeatedly until you can shape it as a sphere. Don't hesitate to add flour if the dough is too liquid or sticks to your hands.
 
 Place under the bowl for a couple of hours in a warm place. This time is called "*pointage*."
 

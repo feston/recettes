@@ -70,3 +70,36 @@ it to 6-8 hours.
 
 ## Cooking the dough
 
+Turn on the oven and set it to 240C. While it is preheating, model your dough in
+whatever shape you fancy.
+
+### Dough shaping 101
+
+Whatever the final shape you wish to obtain, the principles are the same.
+
+* Take a chunk of dough and flatten it in a roughly triangular shape --
+**gently** (otherwise you'll chase the air out of it and end up with the dreaded
+brick)
+* Fold back two vertices of the triangle on it, and roll it on itself starting
+from the remaining vertex.
+* Roll this *paton* **gently** (again, the brick) in flour, to ease further
+manipulation.
+* Put it aside on a towel (this time dry and generously covered with flour), and
+make little walls on the side with the towel. You will put the next loaf right
+next to the first one so that they don't "spill".
+
+That's for a loaf. Should you wish to have something more akin to a *baguette*
+(and honestly who wouldn't?), you just have to roll it a bit more to elongate
+it.
+
+### The proper cooking
+
+Once all of the dough is shaped and your oven nicely heated, boil 400 mL of
+water and spill it in your oven dripping pan (be cautious there, there will be a
+lot of steam, and steam is hot).
+
+Then put your loafs on a cooking plate, cut them regularly using a sharp knife
+or razor blade, and put the plate on the middle of the oven and let them cook
+for 30 minutes or so. The bigger the loafs, the longer the cooking. You will
+know the loaf is cooking upon hearing a hollow sound when knocking on it.
+

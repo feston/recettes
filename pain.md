@@ -56,8 +56,8 @@ and more elastic. This is what we are after.
 
 ### Raises
 
-Once we're there, make a nice ball shape on the work plan, clean around it and
-cover it with a wet towel.
+Once we're there, make a nice ball shape of the dough on the work plan, clean
+around it and cover it with a wet towel.
 
 Twice, leave it for 1-2 hours and fold it for 5 or 6 times (using your hands, or
 better yet a dough scrapper). Put the wet towel back on in between. These

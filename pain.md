@@ -39,8 +39,8 @@ without being hindered by the salt.
 ### Slap and Fold
 
 Then it's time to knead the dough. Spill the mix on a clean and solid surface,
-flatten it and put the salt on the middle. Then put on a long song or a short
-series episode and repeatedly follow these steps:
+flatten it and put the salt on the middle (**do not forget the salt**). Then put
+on a long song or a short series episode and repeatedly follow these steps:
 
 * Fold the dough on itself in one direction, squashing it *gently* in the
 process

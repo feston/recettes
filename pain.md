@@ -18,7 +18,9 @@ guests banquet.
 
 * 1 unit of sourdough
 * 2 units of mineral or filtrated water
-* 3 units of flour (obviously not self-raising)
+* 3 units of flour (obviously not self-raising, but can be a mix of plain white
+flour and other kind of flour -- wholewheat, rye, etc.)
+* seeds, herbs or dry fruits to suit your taste
 * And of course salt (roughly 10g per kilogram of dough)
 
 Experiences have demonstrated that 200g of sourdough is a good base as it will

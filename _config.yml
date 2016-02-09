@@ -1,7 +1,7 @@
 # Site settings
-title: Bizkit
+title: Recettes
 description: > # this means to ignore newlines until "baseurl:"
-  Tu bois.
+  Artisan codeur cuisinier
 url: "http://feston.github.io"
 baseurl: "/recettes" 
 # Build settings

@@ -75,6 +75,8 @@ whatever shape you fancy.
 
 ### Dough shaping 101
 
+![Small rolls, prior to cooking](img/le_pain/small_rolls_before_cooking.jpg)
+
 Whatever the final shape you wish to obtain, the principles are the same.
 
 * Take a chunk of dough and flatten it in a roughly triangular shape --
@@ -94,6 +96,9 @@ That's for a loaf. Should you wish to have something more akin to a *baguette*
 it.
 
 ### The proper cooking
+
+![The same rolls, after 20 minutes in the
+oven](img/le_pain/small_rolls_after_cooking.jpg)
 
 Once all of the dough is shaped and your oven nicely heated, boil 400 mL of
 water and spill it in your oven dripping pan (be cautious there, there will be a

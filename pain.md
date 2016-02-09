@@ -107,7 +107,7 @@ lot of steam, and steam is hot).
 Then put your loafs on a cooking plate, cut them regularly using a sharp knife
 or razor blade, and put the plate on the middle of the oven and let them cook
 for 30 minutes or so. The bigger the loafs, the longer the cooking. You will
-know the loaf is cooked upon hearing a hollow sound when knocking on it.
+know the loaf is cooked upon hearing a hollow sound when knocking on it.[^3]
 
 [^1]:
     You may want to put slightly less water in your dough, e.g. going from 2
@@ -123,3 +123,9 @@ know the loaf is cooked upon hearing a hollow sound when knocking on it.
     flour, a good base is to use no more than one third (of the total flour
     weight) of "heavy" flour (other than plain white).
 
+[^3]:
+    You have quite some latitude in terms of cooking duration. Less cooked will
+    contain more humidity, and as such will be softer and more elastic. Also,
+    you will be able to keep it for longer before it becomes hopelessly hard. On
+    the other hand, it's harder to grill and some may find it heavier to digest.
+    Some also just prefer the texture of a more cooked bread.

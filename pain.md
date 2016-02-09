@@ -39,9 +39,8 @@ without being hindered by the salt.
 ### Slap and Fold
 
 Then it's time to knead the dough. Spill the mix on a clean and solid surface,
-flatten it and put the salt on the middle (**do not forget the salt**). Then play
- a long song or a short
-series episode and repeatedly follow these steps:
+flatten it and put the salt on the middle (**do not forget the salt**). Then
+play a long song or a short series episode and repeatedly follow these steps:
 
 * Fold the dough over itself in one direction, squashing it *gently* in the
 process
@@ -57,7 +56,7 @@ and more elastic. This is what we are after.
 
 ### Raises
 
-Once we're there, make a nice ball shape of the dough on the work plan, clean
+Once you're there, make a nice ball shape of the dough on the work plan, clean
 around it and cover it with a wet towel.
 
 Twice, leave it for 1-2 hours and fold it 5 or 6 times (using your hands, or
@@ -87,7 +86,8 @@ from the remaining vertex.
 manipulation.
 * Put it aside on a towel (this time dry and generously covered with flour), and
 make little walls on the side with the towel. You will put the next loaf right
-next to the first one so that they don't "spill".
+next to the first one so that they don't "spill" while waiting for the oven to
+reach its temperature.
 
 That's for a loaf. Should you wish to have something more akin to a *baguette*
 (and honestly who wouldn't?), you just have to roll it a bit more to elongate

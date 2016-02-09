@@ -17,9 +17,9 @@ The secret of a good bread dough resides in these weight proportions: **1, 2,
  40-guest banquet.
 
 * 1 unit of sourdough
-* 2 units of mineral or filtered water
+* 2 units of mineral or filtered water[^1]
 * 3 units of flour (obviously not self-raising, but can be a mix of plain white
-flour and other kind of flour -- wholewheat, rye, etc.)
+flour and other kind of flour -- wholewheat, rye, etc.)[^2]
 * Seeds, herbs or dry fruits to suit your taste
 * And of course salt (roughly 10g per kilogram of dough)
 
@@ -103,4 +103,16 @@ Then put your loafs on a cooking plate, cut them regularly using a sharp knife
 or razor blade, and put the plate on the middle of the oven and let them cook
 for 30 minutes or so. The bigger the loafs, the longer the cooking. You will
 know the loaf is cooking upon hearing a hollow sound when knocking on it.
+
+[^1]: You may want to put slightly less water in your dough, e.g. going from 2
+units to 1.9~1.8. This depends on the flour(s) you are using: some of them are
+better at absorbing the water (whole flours and flours with lots of gluten are
+generally better at this). Ultimately, kneading the dough a bit longer should
+help attain the desired texture even if you stick to 2 units. Be also aware that
+a more solid dough will tend to rise less.
+
+[^2]: As a general rule, the more you use "heavy" flours (wholewheat) and
+external additives (seeds, fruits, etc.), the less aerated your bread will be.
+For flour, a good base is to use no more than one third (of the total flour
+weight) of "heavy" flour (other than plain white).
 

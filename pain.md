@@ -104,15 +104,17 @@ or razor blade, and put the plate on the middle of the oven and let them cook
 for 30 minutes or so. The bigger the loafs, the longer the cooking. You will
 know the loaf is cooking upon hearing a hollow sound when knocking on it.
 
-[^1]: You may want to put slightly less water in your dough, e.g. going from 2
-units to 1.9~1.8. This depends on the flour(s) you are using: some of them are
-better at absorbing the water (whole flours and flours with lots of gluten are
-generally better at this). Ultimately, kneading the dough a bit longer should
-help attain the desired texture even if you stick to 2 units. Be also aware that
-a more solid dough will tend to rise less.
+[^1]:
+    You may want to put slightly less water in your dough, e.g. going from 2
+    units to 1.9~1.8. This depends on the flour(s) you are using: some of them
+    are better at absorbing the water (whole flours and flours with lots of
+    gluten are generally better at this). Ultimately, kneading the dough a bit
+    longer should help attain the desired texture even if you stick to 2 units.
+    Be also aware that a more solid dough will tend to rise less.
 
-[^2]: As a general rule, the more you use "heavy" flours (wholewheat) and
-external additives (seeds, fruits, etc.), the less aerated your bread will be.
-For flour, a good base is to use no more than one third (of the total flour
-weight) of "heavy" flour (other than plain white).
+[^2]:
+    As a general rule, the more you use "heavy" flours (wholewheat) and external
+    additives (seeds, fruits, etc.), the less aerated your bread will be.  For
+    flour, a good base is to use no more than one third (of the total flour
+    weight) of "heavy" flour (other than plain white).
 

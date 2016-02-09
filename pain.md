@@ -107,7 +107,7 @@ lot of steam, and steam is hot).
 Then put your loafs on a cooking plate, cut them regularly using a sharp knife
 or razor blade, and put the plate on the middle of the oven and let them cook
 for 30 minutes or so. The bigger the loafs, the longer the cooking. You will
-know the loaf is cooking upon hearing a hollow sound when knocking on it.
+know the loaf is cooked upon hearing a hollow sound when knocking on it.
 
 [^1]:
     You may want to put slightly less water in your dough, e.g. going from 2

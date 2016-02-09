@@ -5,7 +5,7 @@ title: pizza
 
 # La Pizza
 
-![](img/four.jpg)
+![](img/la_pizza/four.jpg)
 
 Using sourdough instead of regular dry yeast not only ensures a vast improvement in taste, but is also the occasion to bring your pizza dough to life, to get started with the obscure sourdough cult, and to be a proper organically-grown pizza hipster with a mustache and a fixie.
 
@@ -26,7 +26,7 @@ Place under the bowl for a couple of hours in a warm place. This time is called 
 
 ### Reina
 
-![reina](img/reine.jpg)
+![reina](img/la_pizza/reine.jpg)
 
 * Tomatoes
 * Mushrooms
@@ -48,7 +48,7 @@ Cook the thing. Add a drizzle of extra-virgin olive oil. Eat the pizza.
 
 ### Caprese
 
-![caprese](img/caprese.jpg)
+![caprese](img/la_pizza/caprese.jpg)
 
 * Mozzarella di Bufala
 * Cherry tomatoes

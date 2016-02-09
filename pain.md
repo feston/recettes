@@ -13,7 +13,8 @@ will fill you with undeniable pride and provide a true sense of self-achievement
 ## Ingredients
 
 The secret of a good bread dough resides in these weight proportions: **1, 2,
-3**.  Memorize them and you'll be able cook bread for yourself or for a 40-guest banquet.
+3**.  Memorize them and you'll be able cook bread for yourself or for a
+ 40-guest banquet.
 
 * 1 unit of sourdough
 * 2 units of mineral or filtered water
@@ -22,7 +23,7 @@ flour and other kind of flour -- wholewheat, rye, etc.)
 * Seeds, herbs or dry fruits to suit your taste
 * And of course salt (roughly 10g per kilogram of dough)
 
-Experiements demonstrated that 200g of sourdough is a good base, as it will
+Experiments demonstrated that 200g of sourdough is a good base, as it will
 give you enough material to work with.
 
 ## Making the dough
@@ -38,7 +39,8 @@ without being hindered by the salt.
 ### Slap and Fold
 
 Then it's time to knead the dough. Spill the mix on a clean and solid surface,
-flatten it and put the salt on the middle (**do not forget the salt**). Then play a long song or a short
+flatten it and put the salt on the middle (**do not forget the salt**). Then play
+ a long song or a short
 series episode and repeatedly follow these steps:
 
 * Fold the dough over itself in one direction, squashing it *gently* in the
@@ -46,8 +48,8 @@ process
 * Fold it again in the perpendicular direction
 
 From time to time, lift the ball of dough completely from the work surface, and
-slap it back on the table firmly (don't hold yourself - the sound has to be reminiscent
-of the one of spanking).
+slap it back on the table firmly (don't hold yourself - the sound has to be
+ reminiscent of the one of spanking).
 
 As you fold and slap the dough more and more, you will notice that its texture
 is changing. It will hold itself together better, and will become less sticky

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Bizkit</title>
-    <description>Tu bois.
+    <title>Recettes</title>
+    <description>Artisan codeur cuisinier
 </description>
-    <link>http://feston.github.io/recettes/</link>
-    <atom:link href="http://feston.github.io/recettes/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 29 Jan 2016 19:08:27 +0000</pubDate>
-    <lastBuildDate>Fri, 29 Jan 2016 19:08:27 +0000</lastBuildDate>
-    <generator>Jekyll v3.0.1</generator>
+    <link>http://localhost:4000/recettes/</link>
+    <atom:link href="http://localhost:4000/recettes/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 10 Nov 2016 20:53:22 +0000</pubDate>
+    <lastBuildDate>Thu, 10 Nov 2016 20:53:22 +0000</lastBuildDate>
+    <generator>Jekyll v3.3.0</generator>
     
   </channel>
 </rss>

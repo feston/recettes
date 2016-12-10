@@ -43,8 +43,9 @@ presence of butter and eggs in the mix.
 
 
 Once you're done with kneading, fold the dough in a sort of ball and put it back
-in its bowl. Stick some cling film on it and let it wait for the first proofing
-time. 3 to 5 hours seem to be a good time.
+in its bowl. Stick some cling film on it and let it wait in the fridge for the
+first proofing time. 5h seem to be a minimum but the longer the better (I've
+tried up to 12h without any problem).
 
 
 ### Brioche shaping, 2nd proofing
@@ -58,9 +59,9 @@ the dough).
 *Coming soon: brioche shaping ideas*
 
 Cover the shaped brioches with cling film or some clothe and let them proof
-again. This time, you can and should let them raise for way longer. 6 hours is
-really the lowest limit and I've tried up to 15 hours on occasions (the
-resulting brioche had more volume and felt softer and lighter).
+again. This proofing is longer. 6 hours is really the lowest limit and I've
+tried up to 15 hours on occasions (the resulting brioche had more volume and
+felt softer and lighter).
 
 
 ### Glazing & Cooking
@@ -74,8 +75,8 @@ Some advices:
 
 * Ovens are generally hotter at the back so it may be a good idea to rotate the
 tray *en route* if you spot an area browner than the other.
-* Use a knife you determine if the brioche's core is properly cooked or if it
-needs additional time. It should come out clean.
+* Stick a knife in the brioche to determine if its core is properly cooked or if
+it needs additional time. It should come out clean.
 * If the brioches are getting too brown but still raw at their cores, cover them
 up with a sheet of aluminium foil.
 

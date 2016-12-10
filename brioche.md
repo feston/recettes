@@ -66,7 +66,7 @@ felt softer and lighter).
 
 ### Glazing & Cooking
 
-Turn on the oven and set it to 180C. While it is heating up, mix the remaining
+Turn on the oven and set it to 160C. While it is heating up, mix the remaining
 egg with a few grains of salt and glaze the brioches. Put them in the oven and
 let them cook. The cooking time is dependent on the brioches' volumes. If you've
 done two with this recipe, a good guess is probably 25 to 30 minutes.

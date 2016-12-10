@@ -71,6 +71,9 @@ egg with a few grains of salt and glaze the brioches. Put them in the oven and
 let them cook. The cooking time is dependent on the brioches' volumes. If you've
 done two with this recipe, a good guess is probably 25 to 30 minutes.
 
+The crust should be well brown and the core well cooked - if the crust is brown
+but the core not cooked yet, cover the brioches with a sheet of tin foil.
+
 Some advices:
 
 * Ovens are generally hotter at the back so it may be a good idea to rotate the

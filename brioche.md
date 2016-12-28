@@ -8,6 +8,9 @@ title: brioche
 If you liked [bread](pain.html), you're going to love brioche.
 
 
+![Finished product](img/la_brioche/brioche-decoupee.jpg)
+
+
 ## Ingredients
 
 * 250 g fresh and active sourdough

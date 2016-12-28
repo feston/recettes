@@ -8,7 +8,7 @@ title: brioche
 If you liked [bread](pain.html), you're going to love brioche.
 
 
-![Finished product](img/la_brioche/brioche-decoupee.jpg)
+![Finished product, picture courtesy of Martius](img/la_brioche/brioche-decoupee.jpg)
 
 
 ## Ingredients
@@ -19,7 +19,7 @@ If you liked [bread](pain.html), you're going to love brioche.
 * 200 mL fresh, full fat milk
 * 50 g butter, melted
 * 2 eggs (plus one for the glazing right before cooking)
-* 15g salt
+* 15 g salt
 
 
 ## Making the brioche in three steps
@@ -63,9 +63,9 @@ the dough).
 *Coming soon: brioche shaping ideas*
 
 Cover the shaped brioches with cling film or some clothe and let them proof
-again. This proving is longer. 6 hours is really the lowest limit and I've
-tried up to 15 hours on occasions (the resulting brioche had more volume and
-felt softer and lighter).
+again, this time **outside of the fridge**. This proving is longer. 6 hours
+is really the lowest limit and I've tried up to 15 hours on occasions (the
+resulting brioche had more volume and felt softer and lighter).
 
 
 ### Glazing & Cooking

@@ -10,26 +10,27 @@ If you liked [bread](pain.html), you're going to love brioche.
 
 ## Ingredients
 
-* 250 g of fresh and active sourdough
-* 610 g of flour
-* 150 g of sugar
-* 200 mL of fresh, full fat milk
-* 50 g of butter, melted
+* 250 g fresh and active sourdough
+* 610 g flour
+* 150 g sugar
+* 200 mL fresh, full fat milk
+* 50 g butter, melted
 * 2 eggs (plus one for the glazing right before cooking)
-* 15g of salt
+* 15g salt
 
 
 ## Making the brioche in three steps
 
-The making of brioche is split in three steps, separated by proofing times.
+The making of brioche is split in three steps, separated by proving (raising)
+times.
 
 
-### Ingredient mixing & kneading, *autolyse*, 1st proofing
+### Ingredient mixing & kneading, *autolyse*, 1st proving
 
-This bit is similar to what you'd do for bread. Mix everything **but the salt**
-in a big enough bowl and mix it for just one or two minutes, just to mix the
-ingredients together. Then put some cover on the bowl and let it rest for 20 to
-40 minutes. This first short wait is called *autolyse* and that's when the
+This bit is similar to what you'd do for bread. Put everything **but the salt**
+in a big enough bowl, and mix for just one or two minutes, just enough enough to
+get a shaggy ball of dough. Then put a cover on the bowl and let it rest for
+20 to 40 minutes. This first short wait is called *autolyse* and that's when the
 sourdough starts working and linking with the other ingredients.
 
 
@@ -44,11 +45,11 @@ presence of butter and eggs in the mix.
 
 Once you're done with kneading, fold the dough in a sort of ball and put it back
 in its bowl. Stick some cling film on it and let it wait in the fridge for the
-first proofing time. 5h seem to be a minimum but the longer the better (I've
+first proving time. 5h seem to be a minimum but the longer the better (I've
 tried up to 12h without any problem).
 
 
-### Brioche shaping, 2nd proofing
+### Brioche shaping, 2nd proving
 
 Spill the dough on your work plan and shape it to your fantasy. Arrange the
 shaped brioches so that you can put them in the oven easily later on, eg put
@@ -59,7 +60,7 @@ the dough).
 *Coming soon: brioche shaping ideas*
 
 Cover the shaped brioches with cling film or some clothe and let them proof
-again. This proofing is longer. 6 hours is really the lowest limit and I've
+again. This proving is longer. 6 hours is really the lowest limit and I've
 tried up to 15 hours on occasions (the resulting brioche had more volume and
 felt softer and lighter).
 
@@ -68,7 +69,7 @@ felt softer and lighter).
 
 Turn on the oven and set it to 160C. While it is heating up, mix the remaining
 egg with a few grains of salt and glaze the brioches. Put them in the oven and
-let them cook. The cooking time is dependent on the brioches' volumes. If you've
+let them cook. The cooking time depends on the brioches' volumes. If you've
 done two with this recipe, a good guess is probably 25 to 30 minutes.
 
 The crust should be well brown and the core well cooked - if the crust is brown

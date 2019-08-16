@@ -7,20 +7,25 @@ title: pizza
 
 ![](img/la_pizza/four.jpg)
 
-Using sourdough instead of regular dry yeast not only ensures a vast improvement in taste, but is also the occasion to bring your pizza dough to life, to get started with the obscure sourdough cult, and to be a proper organically-grown pizza hipster with a mustache and a fixie.
+Using sourdough instead of or in addition to regular dry yeast not only greatly improves taste, but is also the occasion to bring a bit of life in your your pizza dough, to get started with the obscure sourdough cult, and to be more of a a proper organic-grown pizza-eating, mustache-sporting, bike-polo-playing hipster.
 
 ## Dough
 
-For one standard size dough:
+For two standard size doughs:
 
-* 150g sourdough
-* 125cl water (Brita the crap out of it otherwise it's no hype)
-* 250g flour
+* 100g sourdough starter
+* 3-5g dry yeat
+* 300ml mild water (Brita the crap out of it otherwise it's no hype)
+* 500g flour (type 00)
 * Big pinch o'salt
 
-Put the ingredients in a bowl, knead hard, fold on itself repeatedly until you can shape it as a sphere. Don't hesitate to add flour if the dough is too liquid or sticks to your hands.
+Mix water, starter, and yeast in a large bowl for 10 minutes, ideally till bubbly (indicating that the dry yeast has starter doing its thing). Add Flour and salt, knead hard.
 
-Place under the bowl for a couple of hours in a warm place. This time is called "*pointage*."
+Place under the bowl for an hour at room temperature. This time is called "*pointage*."
+
+Fold the dough on itself a few times. Place under the bowl once again.
+
+When enough rise has taken place, divide into patons, oil them slightly and place them in a well-oiled tupperware that will spend a day or two in the fridge for their final proof.
 
 ## Recipes
 

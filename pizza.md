@@ -16,7 +16,7 @@ For two standard size doughs:
 * 50g sourdough starter
 * 3-5g dry yeat
 * 300ml mild water (Brita the crap out of it otherwise it's no hype)
-* 500g flour
+* 500g flour (type 00)
 * Big pinch o'salt
 
 Mix water, starter, and yeast in a large bowl for 10 minutes, ideally till bubbly (indicating that the dry yeast has starter doing its thing). Add Flour and salt, knead hard.

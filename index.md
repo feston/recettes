@@ -9,3 +9,4 @@ title: recettes
 * [Pain au levain](pain.html)
 * [Pain de campagne](pain-campagne.html)
 * [Blanquette](blanquette.html)
+* [Quiche Lorraine](quiche-lorraine.html)

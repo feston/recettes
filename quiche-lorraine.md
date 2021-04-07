@@ -50,10 +50,10 @@ the end of the whisking process, add the _lardons_ and whisk again.
 Unroll the pastry in a pie dish (possibly still on its paper, butter the dish
 generously if not using paper, and don't forget to prick the pastry if using
 puff pastry). Push with your fingers all around the crust area so that it's
-sticking to the side of the dish and stays upright. Don't skip this step, the
-moisture of the _migaine_ has a tendency to make the pastry fold back inward,
-while in the oven (which is not really fixable), and this makes for a messy
-crust, which is, everybody agrees, the best part.
+sticking to the side of the dish and stays upright. Don't skip this step, as the
+moisture of the _migaine_ has a tendency to make the pastry fold back inward
+while in the oven. This cannot really be fixed afterwards and makes for a messy crust,
+ruining what is arguably the best part of the _quiche_.
 
 Pour the _migaine_ in the dish. At this stage, you might want to re-distribute
 the _lardons_ so that they spread evenly in the egg & cream mixture. It's ideal
@@ -64,10 +64,9 @@ and is key to the success of this recipe.
 Lower the oven temperature to 180°C, and place the quiche low in the oven, for
 about 35 minutes. If everything goes right, the _migaine_ should raise above the
 level of the pastry near the end of the cooking time. Pay attention to the
-coloration pattern you will see at the top of the filling, and rotate the quiche
-without having the oven open for too long so that the coloration is even. This
-depends on the oven and the shape of the heating element and might not be
-necessary.
+coloration pattern visible at the top of the filling; depending on how uniformly
+your oven heats, you may have to rotate the quiche to make the coloration
+even. Try to keep the oven door open for as little as possible while doing so.
 
 Once cooked, rush it out of the oven, slice in 6 (but more realistically 4), and
 eat while it's still really hot. It will be all puffy for a few minutes, and
@@ -81,6 +80,5 @@ the next day, but can also be re-heated.
 
 ## Bonus
 
-Anne-Sophie Pic (8 Michelin stars) says that adding a generous table spoon of
-[Savora](https://fr.wikipedia.org/wiki/Savora) (a kind of mustard that is not
-spicy), about 20g, is a nice twist, and she is of course right.
+Anne-Sophie Pic (8 Michelin stars) says that a nice twist is to add a generous table spoon &ndash; about 20g &ndash; of
+[Savora](https://fr.wikipedia.org/wiki/Savora) to the _migaine_. Of course, she is right.
